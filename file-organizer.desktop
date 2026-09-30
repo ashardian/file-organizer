@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=File Organizer
+Comment=Sort a folder's files into subfolders by type
+Exec=file-organizer --confirm %F
+Icon=folder
+Terminal=true
+Categories=Utility;FileTools;
+MimeType=inode/directory;
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Organize this folder
+Comment=Sort files into subfolders by type
+Exec=file-organizer --confirm %F
+Icon=folder
+Selection=S
+Extensions=dir;
+Quote=double
+Terminal=true
